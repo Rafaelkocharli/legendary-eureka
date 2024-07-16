@@ -1,5 +1,8 @@
 .list {
   width: 600px;
+  @media screen and (max-width: 620px) {
+    width: 300px;
+  }
 }
 .content {
   display: flex;
@@ -29,6 +32,11 @@
     color: rgb(0, 136, 255);
     text-decoration: underline;
   }
+  @media screen and (max-width: 620px) {
+    flex-direction: column;
+    height: 450px;
+    padding: 9px;
+  }
 }
 .information {
   margin-left: 30px;
@@ -45,5 +53,12 @@
     justify-content: space-between;
     font-size: 16px;
     width: 100%;
+  }
+  @media screen and (max-width: 620px) {
+    width: 80%;
+    margin: 0 auto;
+    .name {
+      text-align: center;
+    }
   }
 }

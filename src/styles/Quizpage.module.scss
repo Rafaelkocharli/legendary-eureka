@@ -2,7 +2,6 @@
   background-color: white;
   width: 600px;
   padding-top: 20px;
-  min-width: 500px;
   padding-bottom: 30px;
   border-radius: 25px;
   box-shadow: rgba(17, 17, 26, 0.1) 0px 8px 24px,
@@ -11,6 +10,9 @@
     font-size: 14px;
     margin-left: 25px;
     color: rgb(0, 136, 255);
+  }
+  @media screen and (max-width: 620px) {
+    width: 350px;
   }
 }
 .buttonLink {
@@ -40,6 +42,9 @@
     font-weight: bold;
     margin: 20px 50px 30px 50px;
     text-align: center;
+    @media screen and (max-width: 620px) {
+      margin: 15px;
+    }
   }
   div {
     display: flex;
