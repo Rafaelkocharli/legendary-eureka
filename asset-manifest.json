@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/legendary-eureka/static/css/main.f6d4e1fc.css",
+    "main.js": "/legendary-eureka/static/js/main.60e54e86.js",
+    "static/media/geography.jpg": "/legendary-eureka/static/media/geography.79e9b04b87e5b4095eae.jpg",
+    "static/media/literature.jpg": "/legendary-eureka/static/media/literature.d1ff0a5f611a39888bc1.jpg",
+    "static/media/art.jpg": "/legendary-eureka/static/media/art.1262a24bacfc526c4b64.jpg",
+    "static/media/animals.jpg": "/legendary-eureka/static/media/animals.ec27186516556d84cb53.jpg",
+    "static/media/sport.jpg": "/legendary-eureka/static/media/sport.352327c4bdceba19001c.jpg",
+    "static/media/history.jpg": "/legendary-eureka/static/media/history.bb141a3d0c05898eee92.jpg",
+    "static/media/it.jpg": "/legendary-eureka/static/media/it.3f82658b016ea2e1c98d.jpg",
+    "static/media/science.jpg": "/legendary-eureka/static/media/science.f8b2f5f46e3c6db7ab2a.jpg",
+    "static/media/erudition.jpg": "/legendary-eureka/static/media/erudition.71305a3ee4518f0a10fc.jpg",
+    "index.html": "/legendary-eureka/index.html",
+    "main.f6d4e1fc.css.map": "/legendary-eureka/static/css/main.f6d4e1fc.css.map",
+    "main.60e54e86.js.map": "/legendary-eureka/static/js/main.60e54e86.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6d4e1fc.css",
+    "static/js/main.60e54e86.js"
+  ]
+}
